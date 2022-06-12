@@ -4,11 +4,11 @@
 Here are some ideas to get you started:-->
 
 <h2 align="center">😀 About Me</h2>
-- 🌱 I’m currently learning to become software engineer at [ALX](https://www.alxafrica.com/)
+- 🌱 I’m currently learning to become software engineer at [ALX](https://www.alxafrica.com/).
 - 🤔 I’m looking for help with Assembly Language.
 - 💬 Ask me about ethical hacking and programming.
-- 📫 How to reach me: [E-mail](mailto:ardisam9876@gmail.com)
-<hr>
+- 📫 How to reach me: [E-mail](mailto:ardisam9876@gmail.com).
+<br>
 <h2 align="center">📊 Stats</h2>
 <p align="center">
 <img width="47%"
