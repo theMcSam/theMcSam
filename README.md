@@ -10,5 +10,9 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [Twitter](https://twitter.com/theMcSam) | [LinkedIn](https://www.linkedin.com/in/samuel-ardayfio-nii-aryee-0220b7194/)<br>
 <hr>
 <h2 align="center">📊 Stats</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McSam-py&theme=radical)
-![Profile views](https://gpvc.arturio.dev/McSam-py) 
+<p align="center">
+<img width="47%"
+   src="https://github-readme-stats.vercel.app/api?username=McSam-py&show_icons=true&theme=tokyonight" 
+/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=McSam-py&theme=tokyonight" />  
+</p>
