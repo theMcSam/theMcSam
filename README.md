@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning to become software engineer at [ALX](https://www.alxafrica.com/)<br>
 - 🤔 I’m looking for help with Assembly Language.<br>
 - 💬 Ask me about ethical hacking and programming.<br>
-- 📫 How to reach me: [Twitter](https://twitter.com/theMcSam) | [LinkedIn](https://www.linkedin.com/in/samuel-ardayfio-nii-aryee-0220b7194/)<br>
+- 📫 How to reach me: [E-mail](mailto:ardisam9876@gmail.com)
 <hr>
 <h2 align="center">📊 Stats</h2>
 <p align="center">
