@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hey there i am McSam</h1>
-<!--
-**McSam-py/McSam-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
+<h1 align="center">Hey there,👋 I am McSam</h1>
 
 <h2 align="center">😀 About Me</h2>
 - 🌱 I’m currently learning to become software engineer at [ALX](https://www.alxafrica.com/).
