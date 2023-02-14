@@ -9,8 +9,9 @@ I am a cybersecurity enthusiast who is also attempting to master software engine
 - 💬 Ask me about ethical hacking and programming.
 - 📫 How to reach me: [E-mail](mailto:ardisam9876@gmail.com).
 
-## Skils
-<p algin="center">
+<h2 align="center">Skills</h2>
+<p align="center">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -33,7 +34,9 @@ I am a cybersecurity enthusiast who is also attempting to master software engine
 <h2 align="center">📊 Stats</h2>
 <p align="center">
 <img width="47%"
-   src="https://github-readme-stats.vercel.app/api?username=McSam-py&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=theMcSam&show_icons=true&theme=tokyonight" 
 />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=McSam-py&theme=tokyonight" />  
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=theMcSam&theme=tokyonight" />  
 </p>
+
+[!Years Badge](https://badges.pufler.dev/years/theMcSam)](https://badges.pufler.dev)
