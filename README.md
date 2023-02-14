@@ -39,4 +39,3 @@ I am a cybersecurity enthusiast who is also attempting to master software engine
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=theMcSam&theme=tokyonight" />  
 </p>
 
-[!Years Badge](https://badges.pufler.dev/years/theMcSam)](https://badges.pufler.dev)
