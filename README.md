@@ -1,5 +1,8 @@
 <h1 align="center">Hey there,👋 I am McSam</h1>
 
+<p align="center">
+  <img src="https://github.com/theMcSam/theMcSam/blob/main/carbon.png" alt="whoami"/>
+</p>
 
 <h2 align="center">😀 About Me</h2>
 
