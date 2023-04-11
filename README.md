@@ -1,7 +1,7 @@
 <h1 align="center">Hey there,👋 I am McSam</h1>
 
 <p align="center">
-  <img src="https://imgur.com/a/nN1uuTg" alt="whoami"/>
+  <img src="ezgif.com-video-to-gif.gif" alt="whoami"/>
 </p>
 
 
