@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/theMcSam/theMcSam/blob/main/carbon.png" alt="whoami"/>
 </p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nN1uuTg" data-context="false" ><a href="//imgur.com/a/nN1uuTg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h2 align="center">😀 About Me</h2>
 
